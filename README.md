@@ -1,1 +1,2 @@
 # Hello
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yourusername/repository/main/script.lua", true))()
